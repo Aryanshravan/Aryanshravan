@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=pavanakarthik12&color=DC503C&style=flat-square&label=Profile+Views)](https://github.com/pavanakarthik12)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aryanshravan&color=DC503C&style=flat-square&label=Profile+Views)](https://github.com/pavanakarthik12)
 
 </div>
 
