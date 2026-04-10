@@ -25,9 +25,35 @@
 
 # 💻 Tech Stack:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,express,mongodb,mysql,python,pandas,numpy,git,github,linux,react,tailwind,vscode" />
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="50"/><br>Pandas</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="50"/><br>NumPy</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
+</tr>
+</table>
 
 ---
 
