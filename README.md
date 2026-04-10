@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DSA+in+Java;Full+Stack+Developer;Hackathon+Builder;Always+Learning+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
-
 ---
 
 # 💫 About Me:
@@ -30,7 +26,7 @@
 # 💻 Tech Stack:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,express,mongodb,mysql,python,pandas,numpy,git,github,linux,react,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,express,mongodb,mysql,python,pandas,numpy,git,github,linux,react,tailwind,vscode" />
 </p>
 
 ---
@@ -64,6 +60,7 @@
 ---
 
 ## 👀 Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aryanshravan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
